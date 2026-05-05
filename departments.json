@@ -1,0 +1,304 @@
+{
+  "totalCount" : 180,
+  "results" : [ {
+    "id" : "1",
+    "name" : "Surgery_Patients"
+  }, {
+    "id" : "2",
+    "name" : "Information Technology"
+  }, {
+    "id" : "4",
+    "name" : "Childrens Behavioral Health"
+  }, {
+    "id" : "5",
+    "name" : "NeuroClinic"
+  }, {
+    "id" : "6",
+    "name" : "Patient Relations"
+  }, {
+    "id" : "7",
+    "name" : "Volunteer Services"
+  }, {
+    "id" : "8",
+    "name" : "Pharmacy"
+  }, {
+    "id" : "9",
+    "name" : "BioMed"
+  }, {
+    "id" : "10",
+    "name" : "Sunshine School"
+  }, {
+    "id" : "11",
+    "name" : "Language Services"
+  }, {
+    "id" : "12",
+    "name" : "Employee Health"
+  }, {
+    "id" : "13",
+    "name" : "Sports Med"
+  }, {
+    "id" : "14",
+    "name" : "Outpatient Lab"
+  }, {
+    "id" : "15",
+    "name" : "PatientiPad (Games)"
+  }, {
+    "id" : "19",
+    "name" : "Childrens Behavioral Health_Autism"
+  }, {
+    "id" : "20",
+    "name" : "Surgical Services"
+  }, {
+    "id" : "22",
+    "name" : "Speech and Hearing"
+  }, {
+    "id" : "23",
+    "name" : "Follow My Health"
+  }, {
+    "id" : "24",
+    "name" : "Specialty Care Services"
+  }, {
+    "id" : "25",
+    "name" : "Rounds Plus"
+  }, {
+    "id" : "26",
+    "name" : "One Day Surgery"
+  }, {
+    "id" : "29",
+    "name" : "Vestavia Pediatrics"
+  }, {
+    "id" : "30",
+    "name" : "Trussville"
+  }, {
+    "id" : "31",
+    "name" : "Childrens Behavioral Health_AppleTV"
+  }, {
+    "id" : "33",
+    "name" : "Custom Development"
+  }, {
+    "id" : "34",
+    "name" : "Radiology_Patients"
+  }, {
+    "id" : "35",
+    "name" : "Cbord"
+  }, {
+    "id" : "36",
+    "name" : "DeerFoot"
+  }, {
+    "id" : "37",
+    "name" : "Pulmonary"
+  }, {
+    "id" : "38",
+    "name" : "Administration"
+  }, {
+    "id" : "39",
+    "name" : "Cystic Fibrosis"
+  }, {
+    "id" : "40",
+    "name" : "Over the Mountain_Remote Site"
+  }, {
+    "id" : "41",
+    "name" : "Mayfair_Remote Site"
+  }, {
+    "id" : "43",
+    "name" : "PACU"
+  }, {
+    "id" : "44",
+    "name" : "PTOT"
+  }, {
+    "id" : "45",
+    "name" : "Child Life"
+  }, {
+    "id" : "46",
+    "name" : "CardioVascular OR"
+  }, {
+    "id" : "47",
+    "name" : "Anesthesia"
+  }, {
+    "id" : "48",
+    "name" : "CV Anesthesia"
+  }, {
+    "id" : "49",
+    "name" : "Childrens Behavioral Health_TeleMed"
+  }, {
+    "id" : "50",
+    "name" : "Sleep Study"
+  }, {
+    "id" : "51",
+    "name" : "Security"
+  }, {
+    "id" : "52",
+    "name" : "Cardiovascular"
+  }, {
+    "id" : "53",
+    "name" : "Greenvale Pediatrics"
+  }, {
+    "id" : "54",
+    "name" : "Radiology"
+  }, {
+    "id" : "55",
+    "name" : "Corporate Communications"
+  }, {
+    "id" : "56",
+    "name" : "Safe Kids"
+  }, {
+    "id" : "57",
+    "name" : "Alabama Safe Kids"
+  }, {
+    "id" : "58",
+    "name" : "Transplant"
+  }, {
+    "id" : "59",
+    "name" : "IST"
+  }, {
+    "id" : "60",
+    "name" : "Heart Transplant - Patients"
+  }, {
+    "id" : "61",
+    "name" : "Renal Transplant"
+  }, {
+    "id" : "62",
+    "name" : "Heart Transplant"
+  }, {
+    "id" : "63",
+    "name" : "Food Services"
+  }, {
+    "id" : "64",
+    "name" : "Foundation"
+  }, {
+    "id" : "65",
+    "name" : "Endocrinology"
+  }, {
+    "id" : "66",
+    "name" : "Adolescent Clinic"
+  }, {
+    "id" : "67",
+    "name" : "Hemotology/Oncology"
+  }, {
+    "id" : "68",
+    "name" : "Children's Harbor"
+  }, {
+    "id" : "69",
+    "name" : "Neurophysiology"
+  }, {
+    "id" : "70",
+    "name" : "Developmental Pediatrics"
+  }, {
+    "id" : "71",
+    "name" : "Early Intervention"
+  }, {
+    "id" : "72",
+    "name" : "Pediatric Practice Solutions"
+  }, {
+    "id" : "73",
+    "name" : "Neonatology"
+  }, {
+    "id" : "74",
+    "name" : "Neonatology"
+  }, {
+    "id" : "75",
+    "name" : "CHIPS Clinic"
+  }, {
+    "id" : "76",
+    "name" : "Allergy"
+  }, {
+    "id" : "77",
+    "name" : "Over the Mountain Pediatrics"
+  }, {
+    "id" : "78",
+    "name" : "Dialysis"
+  }, {
+    "id" : "79",
+    "name" : "Care Coordination"
+  }, {
+    "id" : "80",
+    "name" : "Nursing"
+  }, {
+    "id" : "81",
+    "name" : "ECMO"
+  }, {
+    "id" : "82",
+    "name" : "NICU"
+  }, {
+    "id" : "83",
+    "name" : "UAB Peds"
+  }, {
+    "id" : "84",
+    "name" : "Surgery"
+  }, {
+    "id" : "85",
+    "name" : "Peds East"
+  }, {
+    "id" : "86",
+    "name" : "Critical Care Transport"
+  }, {
+    "id" : "87",
+    "name" : "Primary Care Clinic"
+  }, {
+    "id" : "88",
+    "name" : "Rheumatology"
+  }, {
+    "id" : "89",
+    "name" : "Clinical Nutrition"
+  }, {
+    "id" : "90",
+    "name" : "SIM Center"
+  }, {
+    "id" : "91",
+    "name" : "Clinic 11"
+  }, {
+    "id" : "92",
+    "name" : "Family Clinic"
+  }, {
+    "id" : "93",
+    "name" : "Engineering"
+  }, {
+    "id" : "94",
+    "name" : "Performance Improvment"
+  }, {
+    "id" : "95",
+    "name" : "Vascular Access"
+  }, {
+    "id" : "96",
+    "name" : "Pediatric ENT Associates"
+  }, {
+    "id" : "97",
+    "name" : "United Health"
+  }, {
+    "id" : "98",
+    "name" : "Emergency Department"
+  }, {
+    "id" : "99",
+    "name" : "EVS"
+  }, {
+    "id" : "100",
+    "name" : "PICU"
+  }, {
+    "id" : "101",
+    "name" : "Special Care"
+  }, {
+    "id" : "102",
+    "name" : "Respiratory"
+  }, {
+    "id" : "103",
+    "name" : "10 QB Pulmonary"
+  }, {
+    "id" : "104",
+    "name" : "Transport"
+  }, {
+    "id" : "105",
+    "name" : "05 Dearth"
+  }, {
+    "id" : "106",
+    "name" : "CCU"
+  }, {
+    "id" : "107",
+    "name" : "Echo"
+  }, {
+    "id" : "108",
+    "name" : "09 Harbert"
+  }, {
+    "id" : "109",
+    "name" : "Lab"
+  } ]
+}

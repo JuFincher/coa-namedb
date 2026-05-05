@@ -1,0 +1,346 @@
+{
+  "totalCount" : 38,
+  "results" : [ {
+    "id" : "32",
+    "name" : "Alabaster",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "14",
+    "name" : "Arlington",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "5",
+    "name" : "Benjamin Russell",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "27",
+    "name" : "Bessemer",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "24",
+    "name" : "Brook Highlands",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "20",
+    "name" : "Childrens on 3rd",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "9",
+    "name" : "Childrens South",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "17",
+    "name" : "Dearth Tower_4th Floor",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "19",
+    "name" : "Dearth Tower_Ground Floor",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "30",
+    "name" : "Deerfoot Peds East",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "7",
+    "name" : "Greenvale Pediatrics",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "25",
+    "name" : "Harbor Building",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "34",
+    "name" : "Homewood",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "33",
+    "name" : "Hoover",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "38",
+    "name" : "Hueytown",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "35",
+    "name" : "Huntsville",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "6",
+    "name" : "Lakeshore",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "12",
+    "name" : "Lakeshore (Child Behavioral)",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "11",
+    "name" : "Lakeshore (PT/OT)",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "23",
+    "name" : "Lee Building",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "4",
+    "name" : "Lowder Building",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "10",
+    "name" : "Magnolia Building",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "39",
+    "name" : "McAdory",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "3",
+    "name" : "McWane Tower",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "36",
+    "name" : "Midtown",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "21",
+    "name" : "Montgomery",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "37",
+    "name" : "Mountain Brook",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "28",
+    "name" : "Over The Mountain Pediatrics",
+    "streetAddress1" : "3300 Cahaba Road",
+    "streetAddress2" : "Suite 102",
+    "city" : "Birmingham",
+    "stateProvince" : "Alabama",
+    "zipPostalCode" : "35233",
+    "country" : "United States"
+  }, {
+    "id" : "1",
+    "name" : "Park Place",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "41",
+    "name" : "Patriot Park",
+    "streetAddress1" : "200 Wildwood Pkwy",
+    "streetAddress2" : "Ste 130",
+    "city" : "Birmingham",
+    "stateProvince" : "Alabama",
+    "zipPostalCode" : "35209",
+    "country" : "United States"
+  }, {
+    "id" : "8",
+    "name" : "Pediatrics East",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "26",
+    "name" : "Pell City",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "13",
+    "name" : "Remote Sites",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "31",
+    "name" : "Ronald McDonald",
+    "streetAddress1" : "1700 4th Ave S",
+    "streetAddress2" : "",
+    "city" : "Birmingham",
+    "stateProvince" : "Alabama",
+    "zipPostalCode" : "35233",
+    "country" : "United States"
+  }, {
+    "id" : "29",
+    "name" : "Trussville Peds East",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "16",
+    "name" : "UAB Peds",
+    "streetAddress1" : null,
+    "streetAddress2" : null,
+    "city" : null,
+    "stateProvince" : null,
+    "zipPostalCode" : null,
+    "country" : null
+  }, {
+    "id" : "40",
+    "name" : "Vestavia",
+    "streetAddress1" : "",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  }, {
+    "id" : "42",
+    "name" : "WIC",
+    "streetAddress1" : "UAB Peds",
+    "streetAddress2" : "",
+    "city" : "",
+    "stateProvince" : "",
+    "zipPostalCode" : "",
+    "country" : ""
+  } ]
+}
