@@ -1,5 +1,5 @@
 Serial,ComputerName,Username,FullName,Email,Department,Building,UABPediatricsUser,GlobalProtectEnabled,EpicEnvironment,SharedMacOS
-F4GLXLTL4V,ABBG2F-A0003,CHS123456@chsys.org,Mark Jones,mark.jones@childrensal.org,UAB Peds,Avondale,YES - UAB Computer,,,
+F4GLXLTL4V,ABBG2F-A0003,CHS813264@chsys.org,Mark Jones,markjones@uabmc.edu,UAB Peds,Avondale,YES - UAB Computer,,,
 H2WHM06YQ6NW,BR10HRV-A0001,MAM_10Harbert_01@chsys.org,,,,,,,,
 H2WHM05MQ6NW,BR10QRV-A0001,,,,,,,,,
 H2WJ40KSQ6NW,BR10QRV-A0002,,,,,,,,,
