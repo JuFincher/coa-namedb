@@ -40,7 +40,7 @@ H4TRJ9KM77,BRRYGF-A0001,CHS103478@chsys.org,Amanda Washburn,amanda.washburn@chil
 G94N4779T1,BRSPRV-A0002,,,,,,,,,
 MXQTHKPWJL,BRSPRV-A0003,,,,,,,,,
 QG0FK6GL7C,BRVC4F-A0008,Echo Reading,,,,,,,,
-VW96X69JL7,BRVC4F-A0009,CV Shared Mac Mini@chsys.org,,,Cardiovascular,Benjamin Russell,YES - UAB Computer,,,Yes
+VW96X69JL7,BRVC4F-A0009,Cath Doc Lounge@chsys.org,,,Cardiovascular,Benjamin Russell,YES - UAB Computer,,,Yes
 C02DQ1Y4ML7J,C02DQ1Y4ML7J,CHS201032@chsys.org,Robert Wainwright,robert.wainwright@childrensal.org,,,,,,
 C02F10FZMD6R,C02F10FZMD6R,jufincher@chsys.org,Justin Fincher,justin.fincher@childrensal.org,,,,,,
 C07YD1YAJYW0,C07YD1YAJYW0,,,,,,,,,
