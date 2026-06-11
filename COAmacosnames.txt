@@ -105,7 +105,7 @@ H2WJ1122Q6NW,MWCBRV-A0012,MAM | CBH 4Dearth | iPad 02,,jamf@childrensal.org,,McW
 VQ06T194GM,MWCBRV-A0013,MAM | CBH 4Dearth | iPad 03,,jamf@childrensal.org,,McWane Tower,,,,
 W9MHFD4CGY,MWCBRV-A0014,MAM | CBH 4Dearth | Rover 06,,jamf@childrensal.org,,McWane Tower,,,,
 H2WHM087Q6NW,MWCNRV-A0001,MAM | Clinical Nutrition | Rover 01,,jamf@childrensal.org,,McWane Tower,,,,
-H2WJ30P4Q6NW,MWDYRV-A0001,,,jamf@childrensal.org,,McWane Tower,,,,
+H2WJ30P4Q6NW,MWDYRV-A0001,MAM | Renal | Rover 01,,jamf@childrensal.org,,McWane Tower,,,,
 H2WHM029Q6NW,MWEVRV-A0001,,,jamf@childrensal.org,,McWane Tower,,,,
 H2WHM02AQ6NW,MWEVRV-A0002,,,jamf@childrensal.org,,McWane Tower,,,,
 KM9N00P23M,MWGI5F-A0004,CHS703380@chsys.org,Rachel Kassel,rachel.kassel@childrensal.org,UAB Peds,McWane Tower,YES - UAB Computer,,,
