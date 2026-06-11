@@ -100,7 +100,7 @@ H2WHM09XQ6NW,MWCBRV-A0005,MAM | CBH 4Dearth | Rover 02,,jamf@childrensal.org,,Mc
 H2WJ40CYQ6NW,MWCBRV-A0006,MAM | CBH 4Dearth | Rover 03,Junior Unit,jamf@childrensal.org,,McWane Tower,,,,
 H2WJ117MQ6NW,MWCBRV-A0007,MAM | CBH 4Dearth | Rover 04,,jamf@childrensal.org,,McWane Tower,,,,
 H2WJ4059Q6NW,MWCBRV-A0010,MAM | CBH 4Dearth | Rover 05,,jamf@childrensal.org,,McWane Tower,,,,
-H2WJ10J0Q6NW,MWCBRV-A0011,CBH MAM iPad 01,,jamf@childrensal.org,,McWane Tower,,,,
+H2WJ10J0Q6NW,MWCBRV-A0011,MAM | CBH 4Dearth | iPad 01,,jamf@childrensal.org,,McWane Tower,,,,
 H2WJ1122Q6NW,MWCBRV-A0012,,,jamf@childrensal.org,,McWane Tower,,,,
 VQ06T194GM,MWCBRV-A0013,,,jamf@childrensal.org,,McWane Tower,,,,
 W9MHFD4CGY,MWCBRV-A0014,,,jamf@childrensal.org,,McWane Tower,,,,
