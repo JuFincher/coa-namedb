@@ -103,7 +103,7 @@ H2WJ4059Q6NW,MWCBRV-A0010,MAM | CBH 4Dearth | Rover 05,Elementary Unit,jamf@chil
 H2WJ10J0Q6NW,MWCBRV-A0011,MAM | CBH 4Dearth | iPad 01,iPad Checkout,jamf@childrensal.org,,McWane Tower,,,,
 H2WJ1122Q6NW,MWCBRV-A0012,MAM | CBH 4Dearth | iPad 02,iPad Checkout,jamf@childrensal.org,,McWane Tower,,,,
 VQ06T194GM,MWCBRV-A0013,MAM | CBH 4Dearth | iPad 03,iPad Checkout,jamf@childrensal.org,,McWane Tower,,,,
-W9MHFD4CGY,MWCBRV-A0014,MAM | CBH 4Dearth | Rover 06,,jamf@childrensal.org,,McWane Tower,,,,
+W9MHFD4CGY,MWCBRV-A0014,MAM | CBH 4Dearth | Rover 06,Conf A | Right Cabinet,jamf@childrensal.org,,McWane Tower,,,,
 H2WHM087Q6NW,MWCNRV-A0001,MAM | Clinical Nutrition | Rover 01,Clinical Nutrition,jamf@childrensal.org,,McWane Tower,,,,
 H2WJ30P4Q6NW,MWDYRV-A0001,MAM | Renal | Rover 01,Dialysis,jamf@childrensal.org,,McWane Tower,,,,
 H2WHM029Q6NW,MWEVRV-A0001,,,jamf@childrensal.org,,McWane Tower,,,,
