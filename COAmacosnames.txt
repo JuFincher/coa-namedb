@@ -45,7 +45,7 @@ VW96X69JL7,BRVC4F-A0009,Cath Doc Lounge@chsys.org,,,Cardiovascular,Benjamin Russ
 C02DQ1Y4ML7J,C02DQ1Y4ML7J,CHS201032@chsys.org,Robert Wainwright,robert.wainwright@childrensal.org,,,,,,
 C02F10FZMD6R,C02F10FZMD6R,jufincher@chsys.org,Justin Fincher,justin.fincher@childrensal.org,,,,,,
 C07YD1YAJYW0,C07YD1YAJYW0,,,,,,,,,
-LF4H7X7019,CSDMRV-A0001,,,,,,,,,
+LF4H7X7019,CSDMRV-A0001,MAM | Dermatology | Rover 01,,jamf@childrensal.org,Dermatology,Childrens South,,,,
 C02DF1TGMD6T,CSET2F-M0002,BWIATRAK,Brian Wiatrak,brian.wiatrak@childrensal.org,,,,,,
 D25TX0NZJ1GQ,D25TX0NZJ1GQ,Desktop Team,,,,,,,,
 DC9Y6DW2DT,DC9Y6DW2DT,CHS107885@chsys.org,Russell Gann,russell.gann@childrensal.org,,,,,,
