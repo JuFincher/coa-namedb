@@ -11,7 +11,7 @@ H2WHM06UQ6NW,BR9HRV-A0001,MAM | 9Harbert | Rover 01,,jamf@childrensal.org,,Benja
 H2WHM07NQ6NW,BR9QRV-A0001,MAM | 9QB | Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,
 H2WHM05YQ6NW,BRBTRV-A0001,,,jamf@childrensal.org,,Benjamin Russell,,,,
 H2WHM09DQ6NW,BRBURV-A0001,,,jamf@childrensal.org,,Benjamin Russell,,,,
-H2WHM07SQ6NW,BRC8RV-A0001,,,,,Benjamin Russell,,,,
+H2WHM07SQ6NW,BRC8RV-A0001,,,jamf@childrensal.org,,Benjamin Russell,,,,
 H2WJ40CEQ6NW,BRCBRV-A0001,NatureHall_RoverCart01,,,,Benjamin Russell,,,,
 H2WHM0B9Q6NW,BRCBRV-A0002,NatureHall_RoverCart02,,,,Benjamin Russell,,,,
 H2T5VJ209N,BRCT4F-A0001,Cardio Shared 01,,,,Benjamin Russell,,,,
