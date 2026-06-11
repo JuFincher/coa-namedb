@@ -93,7 +93,7 @@ G99T92CK97,MBOMRS-A0001,CHS6827@chsys.org,Julie Dennis,julie.dennis@childrensal.
 MV6P07X53C,MV6P07X53C,,,,,,,,,
 H2WHM06ZQ6NW,MW08RV-A0001,,,,,McWane Tower,,,,
 H2WHM08PQ6NW,MW5FRV-A0001,MAM | Dearth | Rover 01,,jamf@childrensal.org,,McWane Tower,,,,
-H2WHM08QQ6NW,MW6MRV-A0001,,,,,McWane Tower,,,,
+H2WHM08QQ6NW,MW6MRV-A0001,,,jamf@childrensal.org,,McWane Tower,,,,
 H2WHM08YQ6NW,MW7MRV-A0001,,,,,McWane Tower,,,,
 H2WHM0A4Q6NW,MWCBRV-A0001,,,,,McWane Tower,,,,
 H2WHM09XQ6NW,MWCBRV-A0005,,,,,McWane Tower,,,,
