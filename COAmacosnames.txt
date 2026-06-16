@@ -79,7 +79,7 @@ JCWW0J2WCX,LWCO6F-A0001,CHS401227@chsys.org,Yung Lau,ylau@uabmc.edu,Administrati
 LYXKVPY3H6,LWET3F-A0001,CHS202318@chsys.org,Philip Rosen,philip.rosen@childrensal.org,,,,,,
 GX6NHMQ2VH,LWHM5F-A0018,CHS300407@chsys.org,,jhchewning@uabmc.edu,,,YES - UAB Computer,,,
 LXXL77170J,LWPU6F-A0015,CHS300413@chsys.org,,hgutierrez@uabmc.edu,,,YES - UAB Computer,,,
-TH6K2XQ331,LWPU6F-A0016,kbturner,,kbturner@uabmc.edu,,,,,,
+TH6K2XQ331,LWPU6F-A0016,kbturner,,kbturner@uabmc.edu,,,YES - UAB Computer,,,
 J5H270JXH1,LWRY3F-A0001,LYODOM@chsys.org,Lynn Odom,lynn.odom@childrensal.org,,,,,,
 D9J269WD69,LWRY3F-A0002,lyhamer@chsys.org,Lynne Hamer,lynne.hamer@childrensal.org,,,,,,
 C02GD33WMD6T,M0001-LB-CR-2F,CHS203654@chsys.org,Paul Gasque,paul.gasque@childrensal.org,,,,,,
