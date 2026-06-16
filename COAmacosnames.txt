@@ -78,7 +78,7 @@ M492J93XDR,LBSK1F-A0018,CHS201240@chsys.org,Ashley Bridgmon,ashley.bridgmon@chil
 JCWW0J2WCX,LWCO6F-A0001,CHS401227@chsys.org,Yung Lau,ylau@uabmc.edu,Administration,Lowder Building,YES - UAB Computer,,,
 LYXKVPY3H6,LWET3F-A0001,CHS202318@chsys.org,Philip Rosen,philip.rosen@childrensal.org,,,,,,
 GX6NHMQ2VH,LWHM5F-A0018,CHS300407@chsys.org,,jhchewning@uabmc.edu,,,YES - UAB Computer,,,
-LXXL77170J,LWPU6F-A0015,CHS300413@chsys.org,,hgutierrez@uabmc.edu,,,,,,
+LXXL77170J,LWPU6F-A0015,CHS300413@chsys.org,,hgutierrez@uabmc.edu,,,YES - UAB Computer,,,
 TH6K2XQ331,LWPU6F-A0016,kbturner,,kbturner@uabmc.edu,,,,,,
 J5H270JXH1,LWRY3F-A0001,LYODOM@chsys.org,Lynn Odom,lynn.odom@childrensal.org,,,,,,
 D9J269WD69,LWRY3F-A0002,lyhamer@chsys.org,Lynne Hamer,lynne.hamer@childrensal.org,,,,,,
