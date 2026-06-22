@@ -14,7 +14,7 @@ H2WHM09DQ6NW,BRBURV-A0001,,MAM | 9QB Burn | Rover 01,9th Floor,jamf@childrensal.
 H2WHM07SQ6NW,BRC8RV-A0001,,MAM | CCU | Rover 01,8th Floor,jamf@childrensal.org,,Benjamin Russell,,,,
 H2WJ40CEQ6NW,BRCBRV-A0001,,MAM | NatureHall | Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,
 H2WHM0B9Q6NW,BRCBRV-A0002,,MAM | NatureHall | Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,
-H2T5VJ209N,BRCT4F-A0001,,Cardio Shared 01,,,,Benjamin Russell,,,,
+H2T5VJ209N,BRCT4F-A0001,,Cardio Shared 01,,,,Benjamin Russell,YES - UAB Computer,,,Yes
 GJ91PQ4TKG,BRCURV-A0002,,,,jamf@childrensal.org,,Benjamin Russell,,,,
 H2WJ30P6Q6NW,BRCVRV-A0001,,Security GroundControl,,jamf@childrensal.org,,Benjamin Russell,,,,
 JCFV41H41V,BRCY4F-A0001,,,,jamf@childrensal.org,,Benjamin Russell,,,,
