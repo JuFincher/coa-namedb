@@ -130,7 +130,7 @@ Q5W2VYD7HJ,PPITM80-A0130,,CHS106836@chsys.org,Simon Gichuru,simon.gichuru@childr
 N7JQF7LJ1K,PPITM80-A0178,,CHS107724@chsys.org,Jeffrey Ross,jeffrey.ross@childrensal.org,,,,,,
 V97CWGX295,PPITM80-A0184,,,,,,,,,,
 H65R61QP24,PPITM80-A0206,,CHS107243@chsys.org,Patrick Duncan,patrick.duncan@childrensal.org,,,,,,
-K0XFWXP46M,PPITM80-A0209,,,,,,,,,,
+K0XFWXP46M,PPITM80-A0209,0027152,Imprivata MAM Prod Test,IT Test,jamf@childrensal.org,Information Technology,Park Place,,,,
 M7G6RX31CN,PPITM80-A0213,,,,,,,,,,
 L7953J3XHC,PPITM80-A0214,,CHS811234@chsys.org,Edward Thomas,edward.thomas@childrensal.org,Information Technology,Park Place,,,,
 L97W9CM4L6,PPITM80-A0215,,CHS202189@chsys.org,Darryl Northcutt,darryl.northcutt@childrensal.org,,,,,,
