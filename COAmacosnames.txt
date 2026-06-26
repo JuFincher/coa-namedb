@@ -164,7 +164,7 @@ Q7LT2472YT,WCCY9F-A0016,,,,,,,,,,
 W19VY9T7H6,WCCY9F-A0017,,,,,,,,,,
 QRT9XN2GVL,WCCY9F-A0018,,CHS537343@chsys.org,,ischaffer@uabmc.edu,,,YES - UAB Computer,,,
 DTW2L14RF2,WCCY9F-A0019,,,,,,,,,,
-HNV3F4C7PH,WCCY9F-A0020,P101914,Cardio-WIC 01,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes
+HNV3F4C7PH,WCCY9F-A0020,P101914,Cardio-WIC 01,Cardio-Nurse-4,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes
 CR3T6313HM,WCCY9F-A0021,P101915,Cardio-WIC 02,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes
 QX3V9ND6V6,WCCY9F-A0022,P101916,Cardio-WIC 03,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes
 P74199PWVF,WCCY9F-A0023,P101917,Cardio-WIC 04,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes
