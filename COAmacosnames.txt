@@ -48,6 +48,7 @@ C07YD1YAJYW0,C07YD1YAJYW0,,,,,,,,,,
 LF4H7X7019,CSDMRV-A0001,,MAM | Dermatology | Rover 01,,jamf@childrensal.org,Dermatology,Childrens South,,,,
 C02DF1TGMD6T,CSET2F-M0002,,BWIATRAK,Brian Wiatrak,brian.wiatrak@childrensal.org,,,,,,
 D25TX0NZJ1GQ,D25TX0NZJ1GQ,,Desktop Team,,,,,,,,
+D6QPLQQ6YW,D6QPLQQ6YW,P100877,,,,Cardiology,WIC,YES - UAB Computer,,,Yes
 DC9Y6DW2DT,DC9Y6DW2DT,,CHS107885@chsys.org,Russell Gann,russell.gann@childrensal.org,,,,,,
 WVX7L5VVWF,DEP - WVX7L5VVWF,,STOLEN DEVICE,,,,,,,,
 J3312XL4QN,DFEAML-A0001,,CHS003182@chsys.org,Mark Lytle,j.mark.lytle@childrensal.org,,,,,,
