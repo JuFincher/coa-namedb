@@ -48,16 +48,13 @@ C07YD1YAJYW0,C07YD1YAJYW0,,,,,,,,,,
 LF4H7X7019,CSDMRV-A0001,,MAM | Dermatology | Rover 01,,jamf@childrensal.org,Dermatology,Childrens South,,,,
 C02DF1TGMD6T,CSET2F-M0002,,BWIATRAK,Brian Wiatrak,brian.wiatrak@childrensal.org,,,,,,
 D25TX0NZJ1GQ,D25TX0NZJ1GQ,,Desktop Team,,,,,,,,
-D6QPLQQ6YW,D6QPLQQ6YW,P100877,,,,Cardiology,WIC,YES - UAB Computer,,,Yes
 DC9Y6DW2DT,DC9Y6DW2DT,,CHS107885@chsys.org,Russell Gann,russell.gann@childrensal.org,,,,,,
 WVX7L5VVWF,DEP - WVX7L5VVWF,,STOLEN DEVICE,,,,,,,,
 J3312XL4QN,DFEAML-A0001,,CHS003182@chsys.org,Mark Lytle,j.mark.lytle@childrensal.org,,,,,,
 C996TVM7C4,DFEARS-A0005,0021184,CHS007971@chsys.org,Peily Soong,peily.soong@childrensal.org,Peds East,Deerfoot Peds East,,,,
-FVFLV4751WFV,FVFLV4751WFV,P101069,,,,,,YES - UAB Computer,,,
 FVFZGHY7LYWG,FVFZGHY7LYWG,,JoPavlovec@chsys.org,Joshua Pavlovec,joshua.pavlovec@childrensal.org,,,,,,
-H2WDV8CEQ6NV,H2WDV8CEQ6NV,P101605,,,,Cardiology,WIC,YES - UAB Computer,,,Yes
 H4TF94DZPN5T,H4TF94DZPN5T,,CHS203362@chsys.org,Scott Leblanc,scott.leblanc@childrensal.org,,,,,,
-GN29TJGW4V,HomeTestMini,EdwardChanged,JuFincher,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,YES - UAB Computer,,,Yes
+GN29TJGW4V,HomeTestMini-A0001,EdwardChanged,JuFincher,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,YES - UAB Computer,,,Yes
 J9TN76RL6G,HRNE3F-A0001,,CHS401627@chsys.org,,jmness@uabmc.edu,,,YES - UAB Computer,,,
 T45XC3RXLR,ImprivataMAMTST,,Shared Epic Test@chsys.org,,,,,,,POC/TST,Yes
 C02LH0KMFFT4,IST Shared MBP,,IST Shared MBP,,,,,,,,
@@ -120,7 +117,6 @@ H2WJ3003Q6NW,MWSIRV-A0001,,,,,,,,,,
 H2WHM06GQ6NW,MWTSRV-A0001,,,,,,,,,,
 H2WJ40A0Q6NW,MWVARV-A0001,,,,,,,,,,
 MX46NQ0CVW,MX46NQ0CVW,,CHS706272@chsys.org,,ksyeda@peds.uab.edu,,,YES - UAB Computer,,,
-NNVFMHC52L,NNVFMHC52L,P100878,,,,Cardiology,WIC,YES - UAB Computer,,,Yes
 CVP3QM63F2,PCPP1F-A0001,,,,,,,,,,
 H2WHM091Q6NW,PKPTRV-A0001,,,,,,,,,,
 J0H44J9WN3,PPA33F-A0001,,bmhuynh,,bmhuynh@uabmc.edu,,,YES - UAB Computer,,,
@@ -156,7 +152,6 @@ CKKWYWCNQ6,PPITXX-A0002,,CHS104929@chsys.org,Robert Davis,robert.davis@childrens
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,
 FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,,mseifert@uabmc.edu,,,YES - UAB Computer,,,
 C1MTP01WH3QJ,TEst,,,,,,,,,,
-TTV00X05N2,TTV00X05N2,P101948,,,,Cardiology,WIC,YES - UAB Computer,,,Yes
 L4401XVTHR,VHPU6F-A0001,,CHS537213@chsys.org,,mwmacewen@uabmc.edu,,,YES - UAB Computer,,,
 C02S378WGTHT,VM,,,,,,,,,,
 C07Z6264JYW0,W0001-PP-IT-SRV,,,,,,,,,,
