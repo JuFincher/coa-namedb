@@ -52,6 +52,7 @@ DC9Y6DW2DT,DC9Y6DW2DT,,CHS107885@chsys.org,Russell Gann,russell.gann@childrensal
 WVX7L5VVWF,DEP - WVX7L5VVWF,,STOLEN DEVICE,,,,,,,,
 J3312XL4QN,DFEAML-A0001,,CHS003182@chsys.org,Mark Lytle,j.mark.lytle@childrensal.org,,,,,,
 C996TVM7C4,DFEARS-A0005,0021184,CHS007971@chsys.org,Peily Soong,peily.soong@childrensal.org,Peds East,Deerfoot Peds East,,,,
+FVFLV4751WFV,FVFLV4751WFV,P101069,,,,,,YES - UAB Computer,,,
 FVFZGHY7LYWG,FVFZGHY7LYWG,,JoPavlovec@chsys.org,Joshua Pavlovec,joshua.pavlovec@childrensal.org,,,,,,
 H2WDV8CEQ6NV,H2WDV8CEQ6NV,P101605,,,,Cardiology,WIC,YES - UAB Computer,,,Yes
 H4TF94DZPN5T,H4TF94DZPN5T,,CHS203362@chsys.org,Scott Leblanc,scott.leblanc@childrensal.org,,,,,,
