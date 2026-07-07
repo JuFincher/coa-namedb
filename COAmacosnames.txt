@@ -149,7 +149,7 @@ YMHK6FJ9FC,PPITMK-A0003,0021187,CHS203720@chsys.org,Erin Keller,erin.keller@chil
 MV6P07X53C,PPITXX-A0001,,Horizon Kiosk 01,Macbook Air,jamf@childrensal.org,Information Technology,Park Place,,,,,DEV
 CKKWYWCNQ6,PPITXX-A0002,,Horizon Kiosk 02,Macbook Neo,jamf@childrensal.org,Information Technology,Park Place,,,,,DEV
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,
-FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,,mseifert@uabmc.edu,,,YES - UAB Computer,,,,
+FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,Michael Seifert,mseifert@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,
 C1MTP01WH3QJ,TEst,,,,,,,,,,,
 L4401XVTHR,VHPU6F-A0001,,CHS537213@chsys.org,,mwmacewen@uabmc.edu,,,YES - UAB Computer,,,,
 C02S378WGTHT,VM,,,,,,,,,,,
