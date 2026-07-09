@@ -1,7 +1,7 @@
 Serial,ComputerName,AssetTag,Username,FullName,Email,Department,Building,UABPediatricsUser,GlobalProtectEnabled,EpicEnvironment,SharedMacOS,HorizonKioskEnvironment
 F4GLXLTL4V,ABBG2F-A0003,,CHS813264@chsys.org,Mark Jones,markjones@uabmc.edu,UAB Peds,Avondale,YES - UAB Computer,,,,
 H2WHM06YQ6NW,BR10HRV-A0001,,MAM_10Harbert_Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,,
-H2WHM05MQ6NW,BR10QRV-A0001,,MAM | 10QB | Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,,
+H2WHM05MQ6NW,BR10QRV-A0001,,MAM-10QB-Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WJ40KSQ6NW,BR10QRV-A0002,,MAM | 10QB | Rover 02,,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WJ117LQ6NW,BR7ARV-A0001,,MAM_AcuteCare 7th_Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,,
 X3G4M47YGJ,BR7ARV-A0002,,MAM_AcuteCare 7th_Rover 02,,jamf@childrensal.org,,Benjamin Russell,,,,,
