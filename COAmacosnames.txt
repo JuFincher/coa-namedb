@@ -55,7 +55,7 @@ FVFZGHY7LYWG,FVFZGHY7LYWG,,JoPavlovec@chsys.org,Joshua Pavlovec,joshua.pavlovec@
 H4TF94DZPN5T,H4TF94DZPN5T,,CHS203362@chsys.org,Scott Leblanc,scott.leblanc@childrensal.org,,,,,,,
 GN29TJGW4V,HomeTestMini,EdwardChanged,JuFincher,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,YES - UAB Computer,,,Yes,
 J9TN76RL6G,HRNE3F-A0001,,CHS401627@chsys.org,,jmness@uabmc.edu,,,YES - UAB Computer,,,,
-GFG49TFYGK,HRNE3F-A0002,P101959,CHS703242@chsys.org,Salman Rashid,srashid@uabmc.edu,,,YES - UAB Computer,,PRD,,
+GFG49TFYGK,HRNE3F-A0002,P101959,CHS703242@chsys.org,Salman Rashid,srashid@uabmc.edu,Neurology,Harbor Building,YES - UAB Computer,,PRD,,
 T45XC3RXLR,ImprivataMAMTST,,Shared Epic Test@chsys.org,,,,,YES - UAB Computer,,,,
 C02LH0KMFFT4,IST Shared MBP,,IST Shared MBP,,,,,,,,,
 JN39QTX4JM,JN39QTX4JM,,,,,,,,,,,
