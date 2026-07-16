@@ -9,7 +9,7 @@ H2WHM05VQ6NW,BR7ARV-A0003,,MAM_AcuteCare 7th_Rover 03,Rover Checkout,jamf@childr
 H2WHM02ZQ6NW,BR7ARV-A0004,,MAM_AcuteCare 7th_Rover 04,Rover Checkout,jamf@childrensal.org,Acute Care,Benjamin Russell,,,,,
 H2WHM06UQ6NW,BR9HRV-A0001,,MAM_9Harbert_Rover 01,Rover Checkout,jamf@childrensal.org,09 Harbert,Benjamin Russell,,,,,
 H2WHM07NQ6NW,BR9QRV-A0001,,MAM_9QB_Rover 01,Rover Checkout,jamf@childrensal.org,9QB Surgery,Benjamin Russell,,,,,
-H2WHM05YQ6NW,BRBTRV-A0001,,MAM | 8QB-BMTU | Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,,
+H2WHM05YQ6NW,BRBTRV-A0001,,MAM | 8QB-BMTU | Rover 01,Rover Checkout,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WHM09DQ6NW,BRBURV-A0001,,MAM | 9QB Burn | Rover 01,9th Floor,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WHM07SQ6NW,BRC8RV-A0001,,MAM | CCU | Rover 01,8th Floor,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WJ40CEQ6NW,BRCBRV-A0001,,MAM | NatureHall | Rover 01,,jamf@childrensal.org,,Benjamin Russell,,,,,
