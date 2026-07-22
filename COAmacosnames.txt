@@ -43,7 +43,6 @@ MXQTHKPWJL,BRSPRV-A0003,,MAM_12th Floor_Rover 02,Rover Checkout,jamf@childrensal
 QG0FK6GL7C,BRVC4F-A0008,,Echo Reading,,,,Benjamin Russell,,,,,
 VW96X69JL7,BRVC4F-A0009,,Cath Doc Lounge@chsys.org,,,Cardiovascular,Benjamin Russell,YES - UAB Computer,,,Yes,
 C02DQ1Y4ML7J,C02DQ1Y4ML7J,,CHS201032@chsys.org,Robert Wainwright,robert.wainwright@childrensal.org,Information Technology,Park Place,,Enable,,,
-C07YD1YAJYW0,C07YD1YAJYW0,,,,,,,,,,,
 LF4H7X7019,CSDMRV-A0001,,MAM | Dermatology | Rover 01,,jamf@childrensal.org,Dermatology,Childrens South,,,,,
 C02DF1TGMD6T,CSET2F-M0002,,BWIATRAK,Brian Wiatrak,brian.wiatrak@childrensal.org,,,,,,,
 D25TX0NZJ1GQ,D25TX0NZJ1GQ,,Desktop Team,,,,,,,,,
