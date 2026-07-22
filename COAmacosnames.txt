@@ -29,7 +29,7 @@ H2WHM002Q6NW,BRNURV-A0001,,MAM_NICU_Rover 01,Rover Checkout,jamf@childrensal.org
 H2WHM00MQ6NW,BRNURV-A0002,,MAM_NICU_Rover 02,Rover Checkout,jamf@childrensal.org,NICU,Benjamin Russell,,,,,
 H2WJ30NAQ6NW,BRNURV-A0003,,MAM_NICU_Rover 03,Rover Checkout,jamf@childrensal.org,NICU,Benjamin Russell,,,,,
 H2WJ30NCQ6NW,BRNURV-A0004,,MAM_NICU_Rover 04,Rover Checkout,jamf@childrensal.org,NICU,Benjamin Russell,,,,,
-H2WJ40B3Q6NW,BRNURV-A0005,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
+H2WJ40B3Q6NW,BRNURV-A0005,,MAM_NICU_Rover 05,Rover Checkout,jamf@childrensal.org,NICU,Benjamin Russell,,,,,
 YM060J02RC,BRP7RV-A0003,,12th Floor PICU,,jamf@childrensal.org,,Benjamin Russell,,,,,
 T0HTC7H4KR,BRP7RV-A0004,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WHM0BBQ6NW,BRPHRV-A0001,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
