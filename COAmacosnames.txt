@@ -189,7 +189,7 @@ QM7WNJKHQL,WCCY9F-A0042,P101936,Cardio-WIC 23,9th Floor,jamf@childrensal.org,Car
 PX75T016P3,WCCY9F-A0043,P101937,Cardio-WIC 24,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,
 YJC2QJQ0MN,WCCY9F-A0044,P101938,Cardio-WIC 25,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,
 FVFLV4751WFV,WCCY9F-A0045,P101069,CHS803257@chsys.org,Sydney Escott,scescott@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,
-LWCD9449JM,WCCY9F-A0047,P101957,CHS708252@chsys.org,Amr Hammouda,ayhammouda@uabmc.edu,Cardiology,WIC,,,,,
+LWCD9449JM,WCCY9F-A0047,P101957,CHS708252@chsys.org,Amr Hammouda,ayhammouda@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,
 MQQ310M7GG,WCCY9F-A0047,P101958,CHS300696@chsys.org,Jacqueline Gaddis,jacquelinegaddis@uabmc.edu,Cardiology,WIC,,,,,
 HYJYYYQVKH,WTHM4F-A0001,,,,,,,,,,,
 WVV4YWF439,WVV4YWF439,,SCOTTHILL@chsys.org,Scott Hill,scott.hill@childrensal.org,,,,,,,
