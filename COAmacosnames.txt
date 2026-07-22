@@ -26,7 +26,7 @@ C07ZP136JYVY,BRHT4F-W0001,,chs810160@chsys.org,Ashley Hawkins,ashley.hawkins2@ch
 LY2D91RY5W,BRIMGF-A0001,,CHS203345@chsys.org,Nathan Blackerby,nathan.blackerby@childrensal.org,,Benjamin Russell,,,,,
 H2WHM0ACQ6NW,BRLBRV-A0001,,MAM_Lab_Rover 01,Rover Checkout,jamf@childrensal.org,Lab,Benjamin Russell,,,,,
 H2WHM002Q6NW,BRNURV-A0001,,MAM_NICU_Rover 01,Rover Checkout,jamf@childrensal.org,NICU,Benjamin Russell,,,,,
-H2WHM00MQ6NW,BRNURV-A0002,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
+H2WHM00MQ6NW,BRNURV-A0002,,MAM_NICU_Rover 02,Rover Checkout,jamf@childrensal.org,NICU,Benjamin Russell,,,,,
 H2WJ30NAQ6NW,BRNURV-A0003,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WJ30NCQ6NW,BRNURV-A0004,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
 H2WJ40B3Q6NW,BRNURV-A0005,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
