@@ -38,7 +38,7 @@ FVFHH1S9Q6LT,BRRY1F-M0006,,CHS103191,Jason Pitts,jason.pitts@childrensal.org,,Be
 FVFHH1SZQ6LT,BRRY1F-M0007,,CHS103478@chsys.org,Amanda Washburn,amanda.washburn@childrensal.org,,Benjamin Russell,,,,,
 H4TRJ9KM77,BRRYGF-A0001,,CHS103478@chsys.org,Amanda Washburn,amanda.washburn@childrensal.org,,,,,,,
 D5X213WW95,BRRYGF-A0002,,CHS103191@chsys.org,Jason Pitts,jason.pitts@childrensal.org,Radiology,Benjamin Russell,,,,,
-G94N4779T1,BRSPRV-A0002,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
+G94N4779T1,BRSPRV-A0002,,MAM_12th Floor_Rover 01,Rover Checkout,jamf@childrensal.org,Special Care,Benjamin Russell,,,,,
 MXQTHKPWJL,BRSPRV-A0003,,,,jamf@childrensal.org,,Benjamin Russell,,,,,
 QG0FK6GL7C,BRVC4F-A0008,,Echo Reading,,,,Benjamin Russell,,,,,
 VW96X69JL7,BRVC4F-A0009,,Cath Doc Lounge@chsys.org,,,Cardiovascular,Benjamin Russell,YES - UAB Computer,,,Yes,
