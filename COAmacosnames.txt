@@ -150,7 +150,7 @@ YMHK6FJ9FC,PPITMK-A0003,0021187,CHS106273@chsys.org,Alex Hufham,alex.hufham@chil
 L79YW2119C,PPITMK-A0005,0021189,CHS200522,Brandi Gibson,brandi.gibson@childrensal.org,Information Technology,Park Place,,,,,PILOT
 FQTKJPVQLP,PPITMK-A0006,0021190,CHS301255,Lauren Alford,lauren.alford@childrensal.org,Information Technology,Park Place,,,,,PILOT
 MV6P07X53C,PPITXX-A0001,,Horizon Kiosk 01,Macbook Air,jamf@childrensal.org,Information Technology,Park Place,,,,,
-CKKWYWCNQ6,PPITXX-A0002,,Horizon Kiosk 02,Macbook Neo,jamf@childrensal.org,Information Technology,Park Place,,,,,DEV
+CKKWYWCNQ6,PPITXX-A0002,,Horizon Kiosk 02,Macbook Neo2,jamf@childrensal.org,Information Technology,Park Place,,,,,DEV
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,
 FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,Michael Seifert,mseifert@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,
 C1MTP01WH3QJ,Test,,,,,,,,,,,
