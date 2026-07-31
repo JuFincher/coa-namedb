@@ -1,4 +1,4 @@
-Serial,ComputerName,AssetTag,Username,FullName,Email,Department,Building,UABPediatricsUser,GlobalProtectEnabled,EpicEnvironment,SharedMacOS,HorizonKioskEnvironment,ImprivataDeploymentType
+Serial,ComputerName,AssetTag,Username,FullName,Email,Department,Building,UABPediatricsUser,GlobalProtectEnabled,EpicEnvironment,SharedMacOS,ImprivataDeploymentType,HorizonKioskEnvironment
 F4GLXLTL4V,ABBG2F-A0003,,CHS813264@chsys.org,Mark Jones,markjones@uabmc.edu,UAB Peds,Avondale,YES - UAB Computer,,,,,
 H2WHM06YQ6NW,BR10HRV-A0001,,MAM_10Harbert_Rover 01,Rover Checkout,jamf@childrensal.org,10 Harbert,Benjamin Russell,,,,,,
 H2WHM05MQ6NW,BR10QRV-A0001,,MAM_10QB_Rover 01,Rover Checkout,jamf@childrensal.org,10 QB Pulmonary,Benjamin Russell,,,,,,
@@ -52,10 +52,10 @@ J3312XL4QN,DFEAML-A0001,,CHS003182@chsys.org,Mark Lytle,j.mark.lytle@childrensal
 C996TVM7C4,DFEARS-A0005,0021184,CHS007971@chsys.org,Peily Soong,peily.soong@childrensal.org,Peds East,Deerfoot Peds East,,,,,,
 FVFZGHY7LYWG,FVFZGHY7LYWG,,JoPavlovec@chsys.org,Joshua Pavlovec,joshua.pavlovec@childrensal.org,,,,,,,,
 H4TF94DZPN5T,H4TF94DZPN5T,,CHS203362@chsys.org,Scott Leblanc,scott.leblanc@childrensal.org,,,,,,,,
-GN29TJGW4V,HomeTestMini,EdwardChanged,JuFincher,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,YES - UAB Computer,,,,,Type1
+GN29TJGW4V,HomeTestMini,EdwardChanged,JuFincher,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,YES - UAB Computer,,,,Type1,
 J9TN76RL6G,HRNE3F-A0001,,CHS401627@chsys.org,,jmness@uabmc.edu,,,YES - UAB Computer,,,,,
 GFG49TFYGK,HRNE3F-A0002,P101959,CHS703242@chsys.org,Salman Rashid,srashid@uabmc.edu,Neurology,Harbor Building,YES - UAB Computer,,,,,
-T45XC3RXLR,ImprivataMAMTST,,Shared Epic Test@chsys.org,,,,,YES - UAB Computer,,,,,Type2
+T45XC3RXLR,ImprivataMAMTST,,Shared Epic Test@chsys.org,,,,,YES - UAB Computer,,,,Type2,
 C02LH0KMFFT4,IST Shared MBP,,IST Shared MBP,,,,,,,,,,
 JN39QTX4JM,JN39QTX4JM,,,,,,,,,,,,
 JWKQG29WVF,JWKQG29WVF,,,,,,,,,,,,
@@ -145,13 +145,13 @@ H92404QTXX,PPITM80-A0249,0021191,CHS201032@chsys.org,Rob Wainwright,rob.wainwrig
 D2RHFW3JRP,PPITM80-E0001,,JuFincher@chsys.org,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,,,POC/TST,,,
 C02DQ2AWML7J,PPITM80-M0001,,CHS202016@chsys.org,Assan Samba,assan.samba@childrensal.org,,,,,,,,
 C02GF2B1MD6T,PPITM80-M0256,,CHS202189@chsys.org,Darryl Northcutt,darryl.northcutt@childrensal.org,,,,,,,,
-J5J4J999F9,PPITMK-A0001,0021188,CHS537259@chsys.org,Emily Moses,emily.moses@childrensal.org,Information Technology,Park Place,,,,,PILOT,
-GHVX32D4HL,PPITMK-A0002,0021183,CHS203632@chsys.org,Matthew Kahalley,matthew.kahalley@childrensal.org,Information Technology,Park Place,,,,,PILOT,
-YMHK6FJ9FC,PPITMK-A0003,0021187,CHS106273@chsys.org,Alex Hufham,alex.hufham@childrensal.org,Information Technology,Park Place,,,,,PILOT,
-L79YW2119C,PPITMK-A0005,0021189,CHS200522,Brandi Gibson,brandi.gibson@childrensal.org,Information Technology,Park Place,,,,,PILOT,
-FQTKJPVQLP,PPITMK-A0006,0021190,CHS301255,Lauren Alford,lauren.alford@childrensal.org,Information Technology,Park Place,,,,,PILOT,
+J5J4J999F9,PPITMK-A0001,0021188,CHS537259@chsys.org,Emily Moses,emily.moses@childrensal.org,Information Technology,Park Place,,,,,,PILOT
+GHVX32D4HL,PPITMK-A0002,0021183,CHS203632@chsys.org,Matthew Kahalley,matthew.kahalley@childrensal.org,Information Technology,Park Place,,,,,,PILOT
+YMHK6FJ9FC,PPITMK-A0003,0021187,CHS106273@chsys.org,Alex Hufham,alex.hufham@childrensal.org,Information Technology,Park Place,,,,,,PILOT
+L79YW2119C,PPITMK-A0005,0021189,CHS200522,Brandi Gibson,brandi.gibson@childrensal.org,Information Technology,Park Place,,,,,,PILOT
+FQTKJPVQLP,PPITMK-A0006,0021190,CHS301255,Lauren Alford,lauren.alford@childrensal.org,Information Technology,Park Place,,,,,,PILOT
 MV6P07X53C,PPITXX-A0001,,Horizon Kiosk 01,Macbook Air,jamf@childrensal.org,Information Technology,Park Place,,,,,,
-CKKWYWCNQ6,PPITXX-A0002,,Horizon Kiosk 02,Macbook Neo,jamf@childrensal.org,Information Technology,Park Place,,,,,DEV,
+CKKWYWCNQ6,PPITXX-A0002,,Horizon Kiosk 02,Macbook Neo,jamf@childrensal.org,Information Technology,Park Place,,,,,,DEV
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
 FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,Michael Seifert,mseifert@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
 C1MTP01WH3QJ,Test,,,,,,,,,,,,
