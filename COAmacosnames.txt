@@ -79,7 +79,6 @@ M492J93XDR,LBSK1F-A0018,,CHS201240@chsys.org,Ashley Bridgmon,ashley.bridgmon@chi
 JCWW0J2WCX,LWCO6F-A0001,,CHS401227@chsys.org,Yung Lau,ylau@uabmc.edu,Administration,Lowder Building,YES - UAB Computer,,,,,
 LYXKVPY3H6,LWET3F-A0001,,CHS202318@chsys.org,Philip Rosen,philip.rosen@childrensal.org,,,,,,,,
 GX6NHMQ2VH,LWHM5F-A0018,,CHS300407@chsys.org,,jhchewning@uabmc.edu,,,YES - UAB Computer,,,,,
-F9YPGJF37X,LWOU5F-A0002,,TBD,TBD,,Outcomes Research,Lowder Building,YES - UAB Computer,,,,,
 LXXL77170J,LWPU6F-A0015,,CHS300413@chsys.org,,hgutierrez@uabmc.edu,,,YES - UAB Computer,,,,,
 TH6K2XQ331,LWPU6F-A0016,,kbturner,,kbturner@uabmc.edu,,,YES - UAB Computer,,,,,
 J5H270JXH1,LWRY3F-A0001,,LYODOM@chsys.org,Lynn Odom,lynn.odom@childrensal.org,,,,,,,,
@@ -155,6 +154,7 @@ MV6P07X53C,PPITXX-A0001,,Horizon Kiosk 01,Macbook Air,jamf@childrensal.org,Infor
 CKKWYWCNQ6,PPITXX-A0002,,Horizon Kiosk 02,Macbook Neo,jamf@childrensal.org,Information Technology,Park Place,,,,,,DEV
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
 FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,Michael Seifert,mseifert@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
+F9YPGJF37X,TBD,P101967,CHS813877@chsys.org,Maria Gramatges,maria.gramatges@childrensal.org,,,,,,,,
 C1MTP01WH3QJ,Test,,,,,,,,,,,,
 L4401XVTHR,VHPU6F-A0001,,CHS537213@chsys.org,,mwmacewen@uabmc.edu,,,YES - UAB Computer,,,,,
 C07Z6264JYW0,W0001-PP-IT-SRV,,,,,,,,,,,,
