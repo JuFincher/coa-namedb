@@ -196,5 +196,6 @@ FVFLV4751WFV,WCCY9F-A0045,P101069,CHS803257@chsys.org,Sydney Escott,scescott@uab
 MQQ310M7GG,WCCY9F-A0046,P101958,CHS300696@chsys.org,Jacqueline Gaddis,jacquelinegaddis@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
 LWCD9449JM,WCCY9F-A0047,P101957,CHS708252@chsys.org,Amr Hammouda,ayhammouda@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
 FVFL66FF1WFV,WCCY9F-A0048,P101068,CHS707489@chsys.org,Kelly Muterspaw,kmmuterspaw@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,Type1,
+FVFH21AKQ05P,WCNN9F-A0005,P29740,CHS402378@chsys.org,Hannah Hightower,hhightower@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
 HYJYYYQVKH,WTHM4F-A0001,,,,,,,,,,,,
 WVV4YWF439,WVV4YWF439,,SCOTTHILL@chsys.org,Scott Hill,scott.hill@childrensal.org,,,,,,,,
