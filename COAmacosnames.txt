@@ -165,7 +165,7 @@ RK2W1VPXC0,WCCY9F-A0014,P101838,Cardio-WIC-14,9th Floor,jamf@childrensal.org,Car
 HGVVMXH7VM,WCCY9F-A0015,P101839,Cardio-WIC-15,9th Floor,jamf@childrensal.org,Cardiology,WIC,,,,,Type2,
 Q7LT2472YT,WCCY9F-A0016,P101840,Cardio-WIC-16,9th Floor,jamf@childrensal.org,Cardiology,WIC,,,,,Type2,
 W19VY9T7H6,WCCY9F-A0017,,,,,,,,,,,,
-QRT9XN2GVL,WCCY9F-A0018,P101844,Cardio-WIC-18,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
+QRT9XN2GVL,WCCY9F-A0018,P101844,Cardio-WIC-18,9th Floor,jamf@childrensal.org,Cardiology,WIC,,,,,Type2,
 DTW2L14RF2,WCCY9F-A0019,,,,,,,,,,,,
 HNV3F4C7PH,WCCY9F-A0020,P101914,CHS107992@chsys.org,Jodie Kanaday,jodie.kanaday@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 CR3T6313HM,WCCY9F-A0021,P101915,CHS200218@chsys.org,Keela Boesch,kboesch@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
