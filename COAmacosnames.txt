@@ -124,7 +124,7 @@ F1609749KJ,PPALM30-A0003,,CHS502816@chsys.org,Kathleen Grisanti,khgrisanti@uabmc
 J30WRRCF2P,PPC12F-A0001,,,,,Cardiology,Park Place,YES - UAB Computer,,,,,
 JNWCPJ64NC,PPC12F-A0002,,CHS808792@chsys.org,Benedicto Fernandes,bafernandes@uabmc.edu,Cardiology,Park Place,YES - UAB Computer,,,,,
 M3HKLJL9KY,PPC12F-A0004,,CHS300764@chsys.org,Matthew Clark,matthewclark@uabmc.edu,Cardiology,Park Place,YES - UAB Computer,,,,,
-MFWT7JV49C,PPCI1F-A0001,,CHS706711@chsys.org,,,,,,,,,,
+MFWT7JV49C,PPCI1F-A0001,,CHS706711@chsys.org,Vidit Bhargava,vbhargava@uabmc.edu,Critical Care,Park Place,YES - UAB Computer,,,,,
 Q5W2VYD7HJ,PPITM80-A0130,,CHS106836@chsys.org,Simon Gichuru,simon.gichuru@childrensal.org,Information Technology,Park Place,,,,,,
 N7JQF7LJ1K,PPITM80-A0178,,CHS107724@chsys.org,Jeffrey Ross,jeffrey.ross@childrensal.org,,,,,,,,
 V97CWGX295,PPITM80-A0184,,,,,,,,,,,,
