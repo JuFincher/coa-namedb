@@ -175,7 +175,7 @@ P74199PWVF,WCCY9F-A0023,P101917,Cardio-WIC 04,9th Floor,jamf@childrensal.org,Car
 DW35C2X0KY,WCCY9F-A0024,P101918,Cardio-WIC 05,Jcox Mac Mini,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 KC77CM7WJ3,WCCY9F-A0025,P101919,Cardio-WIC 06,CARDIO-NURSE-3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 G56MW5QQTX,WCCY9F-A0026,P101920,Cardio-WIC 07,WORK-UP-3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
-J2XQXVPYP1,WCCY9F-A0027,P101921,Cardio-WIC 08,WORK-UP-1,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
+J2XQXVPYP1,WCCY9F-A0027,P101921,Cardio-WIC 27,WORK-UP-1,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 HQDL6YX932,WCCY9F-A0028,P101922,Cardio-WIC 28,WORK-UP-2,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 L29H2CG653,WCCY9F-A0029,P101923,Cardio-WIC 29,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 CR3T4NF253,WCCY9F-A0030,P101924,Cardio-WIC-30,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
