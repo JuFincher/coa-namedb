@@ -200,7 +200,7 @@ LWCD9449JM,WCCY9F-A0047,P101957,CHS708252@chsys.org,Amr Hammouda,ayhammouda@uabm
 FVFL66FF1WFV,WCCY9F-A0048,,CHS707489@chsys.org,Kelly Muterspaw,kmmuterspaw@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
 R9X12J439D,WCCY9F-A0049,P100879,Cardio-WIC 49,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 XN23T9NWJ1,WCCY9F-A0050,P100873,Cardio-WIC 50,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
-GPYX6KDC27,WCCY9F-A0051,22339,,,,,,YES - UAB Computer,,,,Type2,
+GPYX6KDC27,WCCY9F-A0051,P100874,Cardio-WIC 51,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 FVFH21AKQ05P,WCNN9F-A0005,P29740,CHS402378@chsys.org,Hannah Hightower,hhightower@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
 HYJYYYQVKH,WTHM4F-A0001,,,,,,,,,,,,
 WVV4YWF439,WVV4YWF439,,SCOTTHILL@chsys.org,Scott Hill,scott.hill@childrensal.org,,,,,,,,
