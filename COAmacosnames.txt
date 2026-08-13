@@ -175,7 +175,7 @@ QX3V9ND6V6,WCCY9F-A0022,P101916,CHS106721@chsys.org,Brittany W Williams,brittany
 P74199PWVF,WCCY9F-A0023,P101917,CHS1606@chsys.org,Karen Sitzler,ksitzler@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 DW35C2X0KY,WCCY9F-A0024,P101918,CHS537537@chsys.org,Jenny Cox,jennycox@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 KC77CM7WJ3,WCCY9F-A0025,P101919,CHS537508@chsys.org,Caroline Carter,cmcarter@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,Yes,,
-G56MW5QQTX,WCCY9F-A0026,P101920,Cardio-WIC 26,WORK-UP-3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
+G56MW5QQTX,WCCY9F-A0026,P101920,Cardio-WIC 26,WORK-UP-3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type1,
 J2XQXVPYP1,WCCY9F-A0027,P101921,Cardio-WIC 27,WORK-UP-1,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 HQDL6YX932,WCCY9F-A0028,P101922,Cardio-WIC 28,WORK-UP-2,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 L29H2CG653,WCCY9F-A0029,P101923,Cardio-WIC 29,Abbie,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
