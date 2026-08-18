@@ -143,7 +143,7 @@ MD7C1905WD,PPITM80-A0241,,CHS801606@chsys.org,Ryan Burns,ryan.burns@childrensal.
 TCGXF0X3MY,PPITM80-A0245-API,,Jamf_API,,,,,,,,,,
 H92404QTXX,PPITM80-A0249,0021191,CHS201032@chsys.org,Rob Wainwright,rob.wainwright@childrensal.org,Information Technology,Patriot Park,,Enable,,,,
 D79NK21VWP,PPITM80-A0250,0021192,CHS537259@chsys.org,Emily Moses,emily.moses@childrensal.org,Information Technology,Park Place,,,,,,PILOT
-D2RHFW3JRP,PPITM80-E0001,,JuFincher@chsys.org,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,,,POC/TST,,,
+D2RHFW3JRP,PPITM80-E0001,,JuFincher@chsys.org,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,YES - UAB Computer,,POC/TST,,Type1,
 C02DQ2AWML7J,PPITM80-M0001,,CHS202016@chsys.org,Assan Samba,assan.samba@childrensal.org,,,,,,,,
 C02GF2B1MD6T,PPITM80-M0256,,CHS202189@chsys.org,Darryl Northcutt,darryl.northcutt@childrensal.org,,,,,,,,
 J5J4J999F9,PPITMK-A0001,0021188,CHS537259@chsys.org,Emily Moses,emily.moses@childrensal.org,Information Technology,Park Place,,,,,,PILOT
