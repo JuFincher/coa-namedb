@@ -156,7 +156,7 @@ CKKWYWCNQ6,PPITXX-A0002,,Island Desktop DEV,Macbook Neo,jamf@childrensal.org,Inf
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
 FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,Michael Seifert,mseifert@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
 C1MTP01WH3QJ,Test,,,,,,,,,,,,
-F9K2RPG7GR,UAB (Semi Managed) Vol Hall,,????,????,unknown@uabpeds.edu,UAB Peds,Volker Hall,,,,,,
+F9K2RPG7GR,VHNN6F-A0002,0021193,????,Kent Willis,kentwillis@uabmc.edu,Neonatology,Volker Hall,,,,,,
 L4401XVTHR,VHPU6F-A0001,,CHS537213@chsys.org,,mwmacewen@uabmc.edu,,,YES - UAB Computer,,,,,
 C07Z6264JYW0,W0001-PP-IT-SRV,,,,,,,,,,,,
 H2WHK15WQ6NW,W0075-PP-IT-M80,,,,,,,,,,,,
