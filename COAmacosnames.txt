@@ -66,7 +66,7 @@ XY4WWPG9NX,LBCC2F-A0011,,CHS203362@chsys.org,Scott Leblanc,scott.leblanc@childre
 MWHVJL9LXJ,LBCC2F-A0015,,DENISE@chsys.org,Denise Mcgill,denise.mcgill@childrensal.org,,,,,,,,
 W05K2C2YQ7,LBCC2F-A0020,,CHS808216@chsys.org,Emily Williams,emily.m.williams@childrensal.org,,,,,,,,
 H52R3X2LHV,LBCC2F-A0021,,CHS104055@chsys.org,Trenton Graves,trenton.graves@childrensal.org,,,,,,,,
-GV33YXG676,LBCC2F-A0022,,CHS803873@chsys.org,Rebecca Chaffin,rebecca.chaffin@childrensal.org,,,,,,,,
+GV33YXG676,LBCC2F-A0022,,CHS104259@chsys.org,John Tracy,john.tracy@childrensal.org,Corporate Communications,Lee Building,,,,,,
 L30JGV4WRQ,LBCC2F-A0023,,CHS808203@chsys.org,Kelly Poirier,kelly.poirier@childrensal.org,,,,,,,,
 CWQW46973V,LBCC2F-A0024,,CHS808495@chsys.org,Maurice Adams,maurice.adams@childrensal.org,,,,,,,,
 C02ZH2NWMD6M,LBCC2F-M0004,,CHS808203@chsys.org,Kelly Poirier,kelly.poirier@childrensal.org,,,,,,,,
