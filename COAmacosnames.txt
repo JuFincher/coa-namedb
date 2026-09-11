@@ -209,6 +209,6 @@ TTV00X05N2,WCCY9F-A0053,P101948,Cardio-WIC 53,Exam Room 5,jamf@childrensal.org,C
 NNVFMHC52L,WCCY9F-A0054,P100878,Cardio-WIC 54,Exam Room 6,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 M9TL9XWL7X,WCCY9F-A0055,P100872,Cardio-WIC 55,Exam Room 7,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 FVFH21AKQ05P,WCNN9F-A0005,P29740,CHS402378@chsys.org,Hannah Hightower,hhightower@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
-GJC20CTFHG,WCNN9F-A0006,,CHS300737@chsys.org,Allison Black,ablack@uabmc.edu,Neonatology,WIC,,,,,,
+GJC20CTFHG,WCNN9F-A0006,,CHS300737@chsys.org,Allison Black,ablack@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
 HYJYYYQVKH,WTHM4F-A0001,,,,,,,,,,,,
 WVV4YWF439,WVV4YWF439,,SCOTTHILL@chsys.org,Scott Hill,scott.hill@childrensal.org,,,,,,,,
