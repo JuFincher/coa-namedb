@@ -160,6 +160,7 @@ CKKWYWCNQ6,PPITXX-A0002,,Imprivata Foundation Test,Macbook Neo,jamf@childrensal.
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
 FD7TD27JXK,PPNP2F-A0001,,CHS300477@chsys.org,Michael Seifert,mseifert@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
 J5J4J999F9,PPSEGF-A0017,0021188,Alert Enterprise 01,Secuirty Background Check,secuirty@childrensal.org,Security,Park Place,,,,,,PILOT
+L4G7WCYJ6F,PPSEGF-A0018,0021197,Alert Enterprise 02,Security Background Check,security@childrensal.org,Security,Park,,,,,,
 H3K7XGX0KV,Stock,,,,,Information Technology,Lee,,,,,,
 C1MTP01WH3QJ,Test,,,,,,,,,,,,
 F9K2RPG7GR,VHNN6F-A0002,0021193,kentwillis,Kent Willis,kentwillis@uabmc.edu,Neonatology,Volker Hall,YES - UAB Computer,,,,,
