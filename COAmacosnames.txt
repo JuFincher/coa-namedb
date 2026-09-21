@@ -207,7 +207,7 @@ MQQ310M7GG,WCCY9F-A0046,P101958,CHS300696@chsys.org,Jacqueline Gaddis,jacqueline
 LWCD9449JM,WCCY9F-A0047,P101957,CHS708252@chsys.org,Amr Hammouda,ayhammouda@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
 FVFL66FF1WFV,WCCY9F-A0048,,CHS707489@chsys.org,Kelly Muterspaw,kmmuterspaw@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
 R9X12J439D,WCCY9F-A0049,P100879,Exam Room,Blue 5,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
-XN23T9NWJ1,WCCY9F-A0050,P100873,Cardio-WIC 50,Exam Room Blue 4,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
+XN23T9NWJ1,WCCY9F-A0050,P100873,Exam Room,Blue 4,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 GPYX6KDC27,WCCY9F-A0051,P100874,Cardio-WIC 51,Exam Room 3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 D6QPLQQ6YW,WCCY9F-A0052,P100877,Cardio-WIC 52,Exam Room 4,jamf@childrensal.org,Cardiology,wic,YES - UAB Computer,,,,Type2,
 TTV00X05N2,WCCY9F-A0053,P101948,Cardio-WIC 53,Exam Room 5,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
