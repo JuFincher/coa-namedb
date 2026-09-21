@@ -212,7 +212,7 @@ GPYX6KDC27,WCCY9F-A0051,P100874,Exam Room,Blue 3,jamf@childrensal.org,Cardiology
 D6QPLQQ6YW,WCCY9F-A0052,P100877,Exam Room,Green 2,jamf@childrensal.org,Cardiology,wic,YES - UAB Computer,,,,Type2,
 TTV00X05N2,WCCY9F-A0053,P101948,Exam Room,Green 3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 NNVFMHC52L,WCCY9F-A0054,P100878,Exam Room,Red 2,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
-M9TL9XWL7X,WCCY9F-A0055,P100872,Exam Room,Exam Room 7,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
+M9TL9XWL7X,WCCY9F-A0055,P100872,Exam Room,Red 3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 FVFH21AKQ05P,WCNN9F-A0005,P29740,CHS402378@chsys.org,Hannah Hightower,hhightower@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
 GJC20CTFHG,WCNN9F-A0006,,CHS300737@chsys.org,Allison Black,ablack@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
 HYJYYYQVKH,WTHM4F-A0001,,,,,,,,,,,,
