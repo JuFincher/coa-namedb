@@ -137,7 +137,7 @@ H65R61QP24,PPITM80-A0206,,CHS107243@chsys.org,Patrick Duncan,patrick.duncan@chil
 K0XFWXP46M,PPITM80-A0209,0027152,Imprivata MAM Prod Test,IT Test,jamf@childrensal.org,Information Technology,Park Place,,,,,,
 M7G6RX31CN,PPITM80-A0213,,,,,,,,,,,,
 L7953J3XHC,PPITM80-A0214,,CHS811234@chsys.org,Edward Thomas,edward.thomas@childrensal.org,Information Technology,Park Place,,,,,,
-L97W9CM4L6,PPITM80-A0215,,CHS202189@chsys.org,Darryl Northcutt,darryl.northcutt@childrensal.org,,,,,,,,
+L97W9CM4L6,PPITM80-A0215,,CHS202189@chsys.org,Darryl Northcutt,darryl.northcutt@childrensal.org,,,,Enable,,,,
 DGVJTHQLXV,PPITM80-A0222,,CHS800168@chsys.org,Matthew Pearson,matthew.pearson@childrensal.org,Information Technology,Park Place,,,POC/TST,,,
 KQV3YHR2JL,PPITM80-A0234,0031001,NCH107173@chsys.org,Bob Sarnecki,bob.sarnecki@childrensal.org,Information Technology,Park Place,,Enable,,,,
 MQLKF63299,PPITM80-A0236,,JoPavlovec@chsys.org,Joshua Pavlovec,joshua.pavlovec@childrensal.org,,,,,,,,
