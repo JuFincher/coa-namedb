@@ -144,7 +144,7 @@ MQLKF63299,PPITM80-A0236,,JoPavlovec@chsys.org,Joshua Pavlovec,joshua.pavlovec@c
 FVFGW2DGQ05P,PPITM80-A0237,,SysAdmin Macbook M1,,,,,,,,,,
 K96J3QT0LK,PPITM80-A0238,,CHS813800@chsys.org,Trey Dean,trey.dean@childrensal.org,Information Technology,Park Place,,Enable,,,,
 DJMJGNPQ7C,PPITM80-A0239,,CHS200536@chsys.org,Jeremy Camp,jeremy.camp@childrensal.org,,,,,,,,
-MD7C1905WD,PPITM80-A0241,,CHS801606@chsys.org,Ryan Burns,ryan.burns@childrensal.org,Information Technology,Park Place,,Enable,PRD,,,
+MD7C1905WD,PPITM80-A0241,0021177,CHS300372@chsys.org,Alan Northam,alan.northam@childrensal.org,Information Technology,Park Place,,Enable,,,,
 TCGXF0X3MY,PPITM80-A0245-API,,Jamf_API,,,,,,,,,,
 H92404QTXX,PPITM80-A0249,0021191,CHS201032@chsys.org,Rob Wainwright,rob.wainwright@childrensal.org,Information Technology,Park Place,,Enable,,,,
 D79NK21VWP,PPITM80-A0250,0021192,CHS537259@chsys.org,Emily Moses,emily.moses@childrensal.org,Information Technology,Park Place,,,,,,PILOT
