@@ -61,7 +61,7 @@ J9TN76RL6G,HRNE3F-A0001,,CHS401627@chsys.org,,jmness@uabmc.edu,,,YES - UAB Compu
 GFG49TFYGK,HRNE3F-A0002,P101959,CHS703242@chsys.org,Salman Rashid,srashid@uabmc.edu,Neurology,Harbor Building,YES - UAB Computer,,,,,
 T45XC3RXLR,ImprivataMAMTST,,Shared Epic Test@chsys.org,,,,,YES - UAB Computer,,,,Type2,
 C02LH0KMFFT4,IST Shared MBP,,IST Shared MBP,,,,,,,,,,
-JN39QTX4JM,JN39QTX4JM,,,,,,,,,,,,
+JN39QTX4JM,JN39QTX4JM,0022335,,,,Cardiology,Benjamin Russell,,,,,,
 JWKQG29WVF,JWKQG29WVF,,,,,,,,,,,,
 XR962QTFVY,LBCC2F-A0004,,CHS808495@chsys.org,Maurice Adams,maurice.adams@childrensal.org,,,,,,,,
 VWGLH29NPG,LBCC2F-A0005,,,,,,,,,,,,
