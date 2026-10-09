@@ -31,7 +31,7 @@ H2WHM0B9Q6NW,BRCBRV-A0002,,MAM_NatureHall_Rover 01,Rover Checkout,jamf@childrens
 H2T5VJ209N,BRCT4F-A0001,,Cardio Shared 01,,,,Benjamin Russell,YES - UAB Computer,,,,Type2,
 GJ91PQ4TKG,BRCURV-A0002,,MAM_CVICU_Rover 01,Rover Checkout,jamf@childrensal.org,CVICU,Benjamin Russell,,,,,,
 H2WJ30P6Q6NW,BRCVRV-A0001,,Security GroundControl,,jamf@childrensal.org,,Benjamin Russell,,,,,,
-JCFV41H41V,BRCY4F-A0001,,,,,,Benjamin Russell,,,,,,
+JCFV41H41V,BRCY4F-A0001,22334,,,,,Benjamin Russell,YES - UAB Computer,,,,Type2,
 JN39QTX4JM,BRCY4F-A0002,0022335,,,,Cardiology,Benjamin Russell,,,,,,
 MV49L5Y96P,BRCY4F-A0003,31507,,,,,,YES - UAB Computer,,,,Type2,
 H2WHL0VZQ6NW,BREDRV-A0001,,MAM_ED_Rover 01,Rover Checkout,jamf@childrensal.org,Emergency Department,Benjamin Russell,,,,,,
