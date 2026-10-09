@@ -1,7 +1,7 @@
 Serial,ComputerName,AssetTag,Username,FullName,Email,Department,Building,UABPediatricsUser,GlobalProtectEnabled,EpicEnvironment,SharedMacOS,ImprivataDeploymentType,HorizonKioskEnvironment
 H2WF41S3Q6P0,,22350,,,,,,YES - UAB Computer,,,,,
 TNF27F95P6,,22348,,,,,,YES - UAB Computer,,,,,
-Q34XRWP2CW,,22349,,,,,,,,,,,
+Q34XRWP2CW,,22349,,,,,,YES - UAB Computer,,,,,
 FDJ4WCD6JT,,22352,,,,,,,,,,,
 JW22MYWK4Q,,22353,,,,,,,,,,,
 H54V9H3C6D,,22354,,,,,,,,,,,
