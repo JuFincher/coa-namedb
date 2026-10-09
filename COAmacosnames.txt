@@ -2,6 +2,7 @@ Serial,ComputerName,AssetTag,Username,FullName,Email,Department,Building,UABPedi
 H2WF41S3Q6P0,,22350,,,,,,,,,,,
 TNF27F95P6,,22348,,,,,,,,,,,
 Q34XRWP2CW,,22349,,,,,,,,,,,
+FDJ4WCD6JT,,22352,,,,,,,,,,,
 F4GLXLTL4V,ABBG2F-A0003,,CHS813264@chsys.org,Mark Jones,markjones@uabmc.edu,UAB Peds,Avondale,YES - UAB Computer,,,,,
 H2WHM06YQ6NW,BR10HRV-A0001,,MAM_10Harbert_Rover 01,Rover Checkout,jamf@childrensal.org,10 Harbert,Benjamin Russell,,,,,,
 H2WHM05MQ6NW,BR10QRV-A0001,,MAM_10QB_Rover 01,Rover Checkout,jamf@childrensal.org,10 QB Pulmonary,Benjamin Russell,,,,,,
