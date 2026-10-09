@@ -2,7 +2,7 @@ Serial,ComputerName,AssetTag,Username,FullName,Email,Department,Building,UABPedi
 H2WF41S3Q6P0,,22350,,,,,,YES - UAB Computer,,,,,
 TNF27F95P6,,22348,,,,,,YES - UAB Computer,,,,,
 Q34XRWP2CW,,22349,,,,,,YES - UAB Computer,,,,,
-HYY2KN2YQW,,22358,,,,,,,,,,,
+HYY2KN2YQW,,22358,,,,,,YES - UAB Computer,,,,,
 LKX3W9YR3T,,31508,,,,,,,,,,,
 X0QGR9KJ9V,,31509,,,,,,,,,,,
 H7T7CT6T5Q,,31510,,,,,,,,,,,
