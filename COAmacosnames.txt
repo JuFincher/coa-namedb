@@ -218,7 +218,7 @@ M7L6MQ9JDP,WCCY9F-A0037,22320,Cardio-WIC 37,9th Floor,jamf@childrensal.org,Cardi
 JQR3C917KX,WCCY9F-A0038,22321,Cardio-WIC 38,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type1,
 F6Y9Q9PCWQ,WCCY9F-A0039,22322,Cardio-WIC 39,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type1,
 KG572X93PT,WCCY9F-A0040,P101934,Cardio-WIC 40,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
-V7N296QQJH,WCCY9F-A0041,P101935,Cardio-WIC 41,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
+V7N296QQJH,WCCY9F-A0041,22324,Cardio-WIC 41,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type1,
 QM7WNJKHQL,WCCY9F-A0042,P101936,Cardio-WIC 42,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 PX75T016P3,WCCY9F-A0043,P101937,Cardio-WIC 43,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,Yes,,
 YJC2QJQ0MN,WCCY9F-A0044,P101938,Cardio-WIC 44,9th Floor,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type1,
