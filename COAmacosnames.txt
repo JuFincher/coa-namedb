@@ -3,8 +3,6 @@ H2WF41S3Q6P0,,22350,,,,,,YES - UAB Computer,,,,,
 TNF27F95P6,,22348,,,,,,YES - UAB Computer,,,,,
 Q34XRWP2CW,,22349,,,,,,YES - UAB Computer,,,,,
 HYY2KN2YQW,,22358,,,,,,YES - UAB Computer,,,,,
-MW6RVXGQLG,PPITMK-A0007,31512,CHS200522@chsys.org,Brandi Gibson,brandi.gibson@childrensal.org,Information Technology,Park Place,,,,,,PROD
-KFGX5XMKPM,PPITMK-A0008,31513,CHS301255@chsys.org,Lauren Alford,lauren.alford@childrensal.org,Information Technology,Park Place,,,,,,PROD
 F4GLXLTL4V,ABBG2F-A0003,,CHS813264@chsys.org,Mark Jones,markjones@uabmc.edu,UAB Peds,Avondale,YES - UAB Computer,,,,,
 FDJ4WCD6JT,ABBGOF-A0001,22352,,,,UAB Pediatrics,Avondale,YES - UAB Computer,,,,Type1,
 JW22MYWK4Q,ABBGOF-A0002,22353,,,,UAB Pediatrics,Avondale,YES - UAB Computer,,,,Type1,
@@ -175,6 +173,8 @@ GHVX32D4HL,PPITMK-A0002,0021183,CHS203632@chsys.org,Matthew Kahalley,matthew.kah
 YMHK6FJ9FC,PPITMK-A0003,0021187,CHS106273@chsys.org,Alex Hufham,alex.hufham@childrensal.org,Information Technology,Park Place,,,,,,PILOT
 L79YW2119C,PPITMK-A0005,0021189,CHS200522,Brandi Gibson,brandi.gibson@childrensal.org,Information Technology,Park Place,,,,,,PILOT
 FQTKJPVQLP,PPITMK-A0006,0021190,CHS301255,Lauren Alford,lauren.alford@childrensal.org,Information Technology,Park Place,,,,,,PILOT
+MW6RVXGQLG,PPITMK-A0007,31512,CHS200522@chsys.org,Brandi Gibson,brandi.gibson@childrensal.org,Information Technology,Park Place,,,,,,PROD
+KFGX5XMKPM,PPITMK-A0008,31513,CHS301255@chsys.org,Lauren Alford,lauren.alford@childrensal.org,Information Technology,Park Place,,,,,,PROD
 MV6P07X53C,PPITXX-A0001,,JuFincher@chsys.org,Justin Fincher,jamf@childrensal.org,Information Technology,Park Place,,,,,,PILOT
 CKKWYWCNQ6,PPITXX-A0002,,Imprivata Foundation Test,Macbook Neo,jamf@childrensal.org,Information Technology,Park Place,,,,,,
 J27T54G21K,PPNP2E-A0001,,CHS300612@chsys.org,David Askenazi,daskenazi@uabmc.edu,Nephrology,Park Place,YES - UAB Computer,,,,,
@@ -236,6 +236,7 @@ TTV00X05N2,WCCY9F-A0053,P101948,Exam Room,Green 3,jamf@childrensal.org,Cardiolog
 NNVFMHC52L,WCCY9F-A0054,P100878,Exam Room,Red 2,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 M9TL9XWL7X,WCCY9F-A0055,P100872,Exam Room,Red 3,jamf@childrensal.org,Cardiology,WIC,YES - UAB Computer,,,,Type2,
 HP2T5X2RHW,WCCY9F-A0056,0031504,TBD,Priyanka Patel,tbd@tbd.org,Cardiology,WIC,YES - UAB Computer,,,,,
+CGXYDLV21D,WCCY9F-A0057,39588,CHS300599,William McMahon,wmcmahon@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
 FVFH21AKQ05P,WCNN9F-A0005,P29740,CHS402378@chsys.org,Hannah Hightower,hhightower@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
 GJC20CTFHG,WCNN9F-A0006,,CHS300737@chsys.org,Allison Black,ablack@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
 DY3GW2WNN2,WCNN9F-A0007,0031502,CHS802820@chsys.org,Kulsajan Bhatia,ksbhatia@uabmc.edu,Neonatology,WIC,YES - UAB Computer,,,,,
