@@ -245,3 +245,4 @@ WVV4YWF439,WVV4YWF439,,SCOTTHILL@chsys.org,Scott Hill,scott.hill@childrensal.org
 M00XM2QHWV,,,,,,,,,,,,,
 DJ626234MJ,,,,,,,,,,,,,
 M2WNF45GXK,PPITM80-A0244,,CHS107975@chsys.org,Gilbert Keller,gil.keller@childrensal.org,Information Technology,Park Place,,,,,,
+JV9R9XF6W0,PPITM80-A0242,,JuFincher@chsys.org,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,,,,,,
