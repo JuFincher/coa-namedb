@@ -2,7 +2,7 @@ Serial,ComputerName,AssetTag,Username,FullName,Email,Department,Building,UABPedi
 H2WF41S3Q6P0,,22350,,,,,,YES - UAB Computer,,,,,
 TNF27F95P6,,22348,,,,,,YES - UAB Computer,,,,,
 Q34XRWP2CW,,22349,,,,,,YES - UAB Computer,,,,,
-HYY2KN2YQW,,22358,,,,,,YES - UAB Computer,,,,,
+HYY2KN2YQW,ABBGOF-A0007,22358,,,,,,YES - UAB Computer,,,,Type1,
 F4GLXLTL4V,ABBG2F-A0003,,CHS813264@chsys.org,Mark Jones,markjones@uabmc.edu,UAB Peds,Avondale,YES - UAB Computer,,,,,
 FDJ4WCD6JT,ABBGOF-A0001,22352,,,,UAB Pediatrics,Avondale,YES - UAB Computer,,,,Type1,
 JW22MYWK4Q,ABBGOF-A0002,22353,,,,UAB Pediatrics,Avondale,YES - UAB Computer,,,,Type1,
