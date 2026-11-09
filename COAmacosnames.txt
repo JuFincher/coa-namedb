@@ -243,7 +243,7 @@ DY3GW2WNN2,WCNN9F-A0007,0031502,CHS802820@chsys.org,Kulsajan Bhatia,ksbhatia@uab
 HYJYYYQVKH,WTHM4F-A0001,,,,,,,,,,,,
 WVV4YWF439,WVV4YWF439,,SCOTTHILL@chsys.org,Scott Hill,scott.hill@childrensal.org,,,,,,,,
 M00XM2QHWV,,,,,,,,,,,,,
-DJ626234MJ,,,,,,,,,,,,,
+DJ626234MJ,LBFN2F-A0008,0031516,CHS813531@chsys.org,Lucy Matthews,lucy.matthews@childrensal.org,Foundation,Lee Building,,Enable,,,,
 M2WNF45GXK,PPITM80-A0244,,CHS107975@chsys.org,Gilbert Keller,gil.keller@childrensal.org,Information Technology,Park Place,,,,,,
 JV9R9XF6W0,PPITM80-A0242,,JuFincher@chsys.org,Justin Fincher,justin.fincher@childrensal.org,Information Technology,Park Place,,,,,,
 KMF9N4VXCK,WCCY9F-A0058,0031514,kjerkins1,Kimberly Jerkins,kjerkins@uabmc.edu,Cardiology,WIC,YES - UAB Computer,,,,,
