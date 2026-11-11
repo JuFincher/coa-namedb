@@ -33,7 +33,7 @@ MV49L5Y96P,BRCY4F-A0003,31507,BR Cardio Shared 03,BR CATH 1 Storage,jamf@childre
 LKX3W9YR3T,BRCY4F-A0004,31508,BR Cardio Shared 04,CATH Lab 1,jamf@childrensal.org,Cardiology,Benjamin Russell,YES - UAB Computer,,,,Type2,
 X0QGR9KJ9V,BRCY4F-A0005,31509,BR Cardio Shared 05,BR CATH 3,jamf@childrensal.org,Cardiology,Benjamin Russell,YES - UAB Computer,,,,Type2,
 H7T7CT6T5Q,BRCY4F-A0006,31510,BR Cardio Shared 06,BR CATH 3 Phy,jamf@childrensal.org,Cardiology,Benjamin Russell,YES - UAB Computer,,,,Type2,
-PXX199W695,BRCY4F-A0007,31511,,,,Cardiology,Benjamin Russell,YES - UAB Computer,,,,Type2,
+PXX199W695,BRCY4F-A0007,31511,BR Cardio Shared 07,BR CATH Interp 01,jamf@childrensal.org,Cardiology,Benjamin Russell,YES - UAB Computer,,,,Type2,
 JWKQG29WVF,BRCY8F-A0001,22336,,,,Cardiology,Benjamin Russell,YES - UAB Computer,,,,Type2,
 H2WHL0VZQ6NW,BREDRV-A0001,,MAM_ED_Rover 01,Rover Checkout,jamf@childrensal.org,Emergency Department,Benjamin Russell,,,,,,
 H2WHL11DQ6NW,BREDRV-A0002,,MAM_ED_Rover 02,Rover Checkout,jamf@childrensal.org,Emergency Department,Benjamin Russell,,,,,,
