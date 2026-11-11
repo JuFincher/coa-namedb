@@ -59,7 +59,7 @@ D5X213WW95,BRRYGF-A0002,,CHS103191@chsys.org,Jason Pitts,jason.pitts@childrensal
 G94N4779T1,BRSPRV-A0002,,MAM_12th Floor_Rover 01,Rover Checkout,jamf@childrensal.org,Special Care,Benjamin Russell,,,,,,
 MXQTHKPWJL,BRSPRV-A0003,,MAM_12th Floor_Rover 02,Rover Checkout,jamf@childrensal.org,Special Care,Benjamin Russell,,,,,,
 QG0FK6GL7C,BRVC4F-A0008,,Echo Reading,,,,Benjamin Russell,,,,,,
-VW96X69JL7,BRVC4F-A0009,,Cath Doc Lounge@chsys.org,,,Cardiovascular,Benjamin Russell,YES - UAB Computer,,,Yes,,
+VW96X69JL7,BRCY4F-A0008,0031517,BR Cardio Shared 08,BR Cath Interp 02,jamf@childrensal.org,Cardiovascular,Benjamin Russell,YES - UAB Computer,,,,Type2,
 LF4H7X7019,CSDMRV-A0001,,MAM_Dermatology_Rover 01,Rover Checkout,jamf@childrensal.org,Dermatology,Childrens South,,,,,,
 H9WRNJ9NYV,CSET2F-A0006,0031505,ScottHILL,Scott Hill,scott.hill@childrensal.org,ENT,Children's South,,,,,,
 HTMQXT6WDV,CSET2F-A0007,0031506,BWIATRAK,Brian Wiatrak,brian.wiatrak@childrensal.org,ENT,Childrens South,,,,,,
